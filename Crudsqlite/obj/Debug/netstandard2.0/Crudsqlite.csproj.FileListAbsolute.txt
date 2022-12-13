@@ -1,0 +1,15 @@
+C:\Users\Auxiliar23\source\repos\Crudsqlite\Crudsqlite\bin\Debug\netstandard2.0\Crudsqlite.deps.json
+C:\Users\Auxiliar23\source\repos\Crudsqlite\Crudsqlite\bin\Debug\netstandard2.0\Crudsqlite.dll
+C:\Users\Auxiliar23\source\repos\Crudsqlite\Crudsqlite\bin\Debug\netstandard2.0\Crudsqlite.pdb
+C:\Users\Auxiliar23\source\repos\Crudsqlite\Crudsqlite\obj\Debug\netstandard2.0\Crudsqlite.csproj.AssemblyReference.cache
+C:\Users\Auxiliar23\source\repos\Crudsqlite\Crudsqlite\obj\Debug\netstandard2.0\Crudsqlite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Auxiliar23\source\repos\Crudsqlite\Crudsqlite\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Auxiliar23\source\repos\Crudsqlite\Crudsqlite\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Auxiliar23\source\repos\Crudsqlite\Crudsqlite\obj\Debug\netstandard2.0\Crudsqlite.AssemblyInfoInputs.cache
+C:\Users\Auxiliar23\source\repos\Crudsqlite\Crudsqlite\obj\Debug\netstandard2.0\Crudsqlite.AssemblyInfo.cs
+C:\Users\Auxiliar23\source\repos\Crudsqlite\Crudsqlite\obj\Debug\netstandard2.0\Crudsqlite.csproj.CoreCompileInputs.cache
+C:\Users\Auxiliar23\source\repos\Crudsqlite\Crudsqlite\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Auxiliar23\source\repos\Crudsqlite\Crudsqlite\obj\Debug\netstandard2.0\Crudsqlite.dll
+C:\Users\Auxiliar23\source\repos\Crudsqlite\Crudsqlite\obj\Debug\netstandard2.0\refint\Crudsqlite.dll
+C:\Users\Auxiliar23\source\repos\Crudsqlite\Crudsqlite\obj\Debug\netstandard2.0\Crudsqlite.pdb
+C:\Users\Auxiliar23\source\repos\Crudsqlite\Crudsqlite\obj\Debug\netstandard2.0\ref\Crudsqlite.dll
